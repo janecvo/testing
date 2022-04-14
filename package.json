@@ -1,0 +1,12 @@
+{
+  "name": "01array_method",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_method.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
